@@ -4,6 +4,7 @@ Requirements : Python is installed in the root .
 
 Data Require
     •  Clinvar.vcf file (clinvar database file )
+Download from : https://ftp.ncbi.nlm.nih.gov/pub/clinvar/vcf_GRCh38/clinvar.vcf.gz
     • SRR9050857.vcf (file which need to be annotated )
 
 Usage : 
